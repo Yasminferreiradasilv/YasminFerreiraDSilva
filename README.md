@@ -23,11 +23,27 @@ Me chamo Yasmin Ferreira da silva, tenho 18 anos e sou natural de São Paulo. Es
 </p>
 
 ---
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="p5js" 
+    title="p5js"
+    width="30px" 
+    style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/p5js/p5js-original.svg" />
+          
 <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="250" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Yasminferreiradasilv&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
